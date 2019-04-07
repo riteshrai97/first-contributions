@@ -13247,4 +13247,3 @@ Afolayan Tunde
 [Łukasz Pasek](https://github.com/lukaszpasek)
 -Matt Z
 -Aleksi Maunu :O
-- [Ritesh Rai](https://github.com/riteshrai97)
